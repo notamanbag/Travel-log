@@ -6,5 +6,4 @@ Web-App created using
   Map:- MapBox API
   
 This app lets the user enter his travel details such ass The trip name,comments.description of trip and the day the user visted the respective place. 
-AT present this app only lets one user enter  his/her details in fukture iwuld implementa login/signup route with jwt authentication so that more user would be able to do 
-the same.
+AT present this app only lets one user enter  his/her details in future we would implement login/signup route with jwt authentication so that it would become more dynamic.
